@@ -288,5 +288,85 @@ En Rouco Fisioterapia podemos orientarte con pautas adaptadas a tu estilo de vid
     metaDescription:
       "Habitos saludables domesticos para cuidar tu cuerpo cada dia. Consejos de postura, movimiento, descanso y alimentacion en Rouco Fisioterapia.",
     published: true,
-  },
+  },{
+    id: "7",
+    title: "Fisioterapia en San Fernando de Henares: tratamiento del dolor lumbar, cervical y lesiones comunes",
+    slug: "fisioterapia-san-fernando-de-henares",
+    excerpt:
+      "La fisioterapia en San Fernando de Henares ayuda a tratar dolores lumbares, cervicales y lesiones deportivas mediante tratamientos personalizados y ejercicio terapéutico adaptado.",
+    content: `La fisioterapia en San Fernando de Henares se ha convertido en una de las herramientas mas eficaces para tratar dolores musculares, lesiones deportivas y problemas derivados del estilo de vida actual. Pasar muchas horas sentado, el estres o una mala planificacion del ejercicio pueden provocar molestias que afectan al dia a dia.
+
+En Rouco Fisioterapia trabajamos diariamente con pacientes que buscan aliviar el dolor y mejorar su calidad de vida mediante tratamientos personalizados.
+
+## Por que cada vez mas personas necesitan fisioterapia
+
+Actualmente existen habitos que favorecen la aparicion de molestias musculares y articulares:
+
+- Trabajo sedentario durante muchas horas.
+- Uso continuo de ordenador y pantallas.
+- Falta de actividad fisica regular.
+- Estres fisico y emocional.
+- Entrenamientos intensos sin una correcta preparacion.
+
+Todo esto puede generar sobrecargas, limitacion de movimiento y dolor persistente.
+
+## Problemas mas frecuentes que tratamos
+
+Estas son algunas de las patologias mas habituales en consulta:
+
+### Dolor lumbar
+
+El dolor lumbar suele aparecer en la zona baja de la espalda, especialmente al permanecer sentado mucho tiempo, levantar peso o realizar ciertos movimientos.
+
+### Dolor cervical
+
+Muy frecuente en personas que trabajan frente al ordenador. Suele provocar tension en cuello, trapecios y dolores de cabeza asociados.
+
+### Lesiones deportivas
+
+Tratamos lesiones relacionadas con gimnasio, running y otros deportes, ayudando a recuperar la movilidad y prevenir recaidas.
+
+## Tratamiento de fisioterapia personalizado
+
+En Rouco Fisioterapia utilizamos un enfoque activo y adaptado a cada paciente:
+
+- Terapia manual avanzada.
+- Ejercicio terapeutico individualizado.
+- Reeducacion postural.
+- Trabajo progresivo de fuerza.
+- Prevencion de recaidas.
+
+Nuestro objetivo no es solo reducir el dolor, sino identificar la causa del problema para lograr una recuperacion duradera.
+
+## Importancia del ejercicio terapeutico
+
+El ejercicio es una parte fundamental de la recuperacion. Algunos ejercicios habituales incluyen:
+
+- Activacion de core.
+- Trabajo de gluteo.
+- Movilidad lumbar controlada.
+- Ejercicios de estabilidad cervical.
+
+Cada plan se adapta al estado fisico y necesidades de cada persona.
+
+## Cuando acudir al fisioterapeuta
+
+Es recomendable acudir a fisioterapia si:
+
+- El dolor dura varios dias o semanas.
+- Existen limitaciones para trabajar o entrenar.
+- Las molestias aparecen de forma recurrente.
+- El dolor aumenta con ciertas actividades.
+
+Un tratamiento temprano ayuda a evitar que el problema empeore.
+
+## Mejora tu bienestar con ayuda profesional
+
+Si buscas fisioterapia en San Fernando de Henares, en Rouco Fisioterapia podemos ayudarte con un tratamiento personalizado enfocado en aliviar el dolor, recuperar movilidad y prevenir futuras lesiones.`,
+    category: "Fisioterapia",
+    date: "2026-05-27",
+    metaDescription:
+      "Fisioterapia en San Fernando de Henares para tratar dolor lumbar, cervical y lesiones deportivas. Tratamientos personalizados y ejercicio terapeutico en Rouco Fisioterapia.",
+    published: true,
+},
 ];
